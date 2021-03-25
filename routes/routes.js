@@ -26,4 +26,6 @@ router.get('/project/:id', (req, res, next) => {
     res.render('project', { project })
 })
 
+
+
 module.exports = router;
