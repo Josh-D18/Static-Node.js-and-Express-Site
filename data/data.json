@@ -7,7 +7,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/Pablo-YT/Random-QuoteVanillaJavaScript",
-            "image_urls": ["/static/images/QuoteGeneratorImg.png","/static/images/QuoteGeneratorImg2.png"]
+            "image_urls": ["/static/images/QuoteGeneratorImg.png","/static/images/QuoteGeneratorImg2.png", "/static/images/QuoteGeneratorImg3.png"]
         },
         {
             "id": 1,
@@ -25,7 +25,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/Pablo-YT/Interactive-FormJS",
-            "image_urls": ["/static/images/InteractiveFromImg.png","/static/images/InteractiveFromImg2.png"]
+            "image_urls": ["/static/images/InteractiveFromImg.png","/static/images/InteractiveFromImg2.png", "/static/images/InteractiveFormImg3.png"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/Pablo-YT/OOP-Game-Show-App",
-            "image_urls": ["/static/images/PhraseHunterImg.png", "/static/images/PhrasHunterImg2.png"]
+            "image_urls": ["/static/images/PhraseHunterImg.png", "/static/images/PhrasHunterImg2.png", "/static/images/phrasehunterGOimg.png"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/Pablo-YT/Public-API-Requests",
-            "image_urls": ["/static/images/APIRequestsImg.png", "/static/images/APIRequestsImg2.png"]
+            "image_urls": ["/static/images/APIRequestsImg.png", "/static/images/APIRequestsImg2.png", "/static/images/APIRequestsImg3.png"]
         }
     ]
 }

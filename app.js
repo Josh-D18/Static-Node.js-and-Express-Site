@@ -16,7 +16,7 @@ app.use(router)
 app.use(function(req, res, next) {
     const error = new Error();
     error.status = 404;
-    error.message = "Sorry can't find that page!";
+    error.message = "Sorry whatever you are looking for cannot be found!";
     if(res.status(404)){
         console.error(error.message, error.status)
         res.render('error404', { error })
