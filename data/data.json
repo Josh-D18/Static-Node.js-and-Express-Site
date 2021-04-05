@@ -5,7 +5,7 @@
             "project_name": "A Random Quote Generator",
             "description": "A Random Quote Generator. This is a program that displays a randomly selected quote each time the user clicks a button.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
+            "live_link": "https://pablo-yt.github.io/Random-QuoteVanillaJavaScript/",
             "github_link": "https://github.com/Pablo-YT/Random-QuoteVanillaJavaScript",
             "image_urls": ["/static/images/QuoteGeneratorImg.png","/static/images/QuoteGeneratorImg2.png", "/static/images/QuoteGeneratorImg3.png"]
         },
@@ -14,7 +14,7 @@
             "project_name": "Data Pagination and Filtering",
             "description": "This is a project that can display several “pages” of student data that the user can easily navigate and view.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
+            "live_link": "https://pablo-yt.github.io/DataPaginationandFilteringjs/",
             "github_link": "https://github.com/Pablo-YT/DataPaginationandFilteringjs",
             "image_urls": ["/static/images/DataPaginationImg.png","/static/images/DataPaginationImg2.png", "/static/images/DataPaginationImg3.png"]
         },
@@ -23,7 +23,7 @@
             "project_name": "Interactive Form",
             "description": "This is a project that shows a form that has been enhanced so that it’s engaging, interactive, and easy to use.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
+            "live_link": "https://pablo-yt.github.io/Interactive-FormJS/",
             "github_link": "https://github.com/Pablo-YT/Interactive-FormJS",
             "image_urls": ["/static/images/InteractiveFromImg.png","/static/images/InteractiveFromImg2.png", "/static/images/InteractiveFormImg3.png"]
         },
@@ -32,7 +32,7 @@
             "project_name": "OOP Game Show App",
             "description": "This is a phrase hunter game. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
+            "live_link": "https://pablo-yt.github.io/OOP-Game-Show-App/",
             "github_link": "https://github.com/Pablo-YT/OOP-Game-Show-App",
             "image_urls": ["/static/images/PhraseHunterImg.png", "/static/images/PhrasHunterImg2.png", "/static/images/phrasehunterGOimg.png"]
         },
@@ -41,7 +41,7 @@
             "project_name": "Public API Requests",
             "description": "This project is a employee directory made by communicating with a third-party API (Application Programming Interface).",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
+            "live_link": "https://pablo-yt.github.io/Public-API-Requests/",
             "github_link": "https://github.com/Pablo-YT/Public-API-Requests",
             "image_urls": ["/static/images/APIRequestsImg.png", "/static/images/APIRequestsImg2.png", "/static/images/APIRequestsImg3.png"]
         }

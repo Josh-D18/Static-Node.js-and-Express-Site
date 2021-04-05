@@ -27,7 +27,9 @@ app.use(function(req, res, next) {
 // Global Error Handler
 app.use(function(err, req, res, next) {
     err.message = "Uh Oh looks like something went wrong on our end!";
-    res.status(err.status || 500);
+    err.status = 500;
+    res.status(err.status);
+    console.error(err.message, err.status)
     res.render('errors', { err });
 });
 
